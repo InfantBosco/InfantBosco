@@ -207,7 +207,9 @@ interests  : Open-Source · Product Design · Campus Software · AI Tools
     <img alt="github-snake" src="https://raw.githubusercontent.com/InfantBosco/InfantBosco/output/github-snake.svg" />
   </picture>
 </div>
+## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/InfantBosco/InfantBosco/blob/output/github-contribution-grid-snake-dark.svg)
 > ⚙️ *Snake animation requires the GitHub Actions workflow below to be set up first.*
 
 ---
