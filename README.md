@@ -1,30 +1,18 @@
-<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:1565C0,100:4F8EF7&height=200&section=header&text=Infant%20Bosco%20M&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Explorer.%20Builder.%20First-Year%20CS%20Student.&descSize=17&descAlignY=62&descColor=90CAF9&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1565C0,100:4F8EF7&height=220&section=header&text=Infant%20Bosco%20M&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Explorer.%20Builder.%20First-Year%20CS%20Student.&descSize=16&descAlignY=58&descColor=90CAF9&animation=fadeIn" width="100%" />
 </div>
 
-<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%2B+Flask+%2B+PostgreSQL;Building+real+things+from+year+one;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4F8EF7&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;React+%2B+Flask+%2B+PostgreSQL+%2B+MongoDB;Building+real+things+from+year+one.;Always+learning.+Always+shipping." alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- Badges -->
 <div align="center">
   <a href="https://linkedin.com/in/infant-bosco/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/InfantBosco"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
   <a href="mailto:boscoinfant18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=InfantBosco&style=for-the-badge&color=1565C0&label=PROFILE+VIEWS"/>
-</div>
-
-<br/>
-
----
-
-<!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.&author=Dennis%20Ritchie" />
 </div>
 
 ---
@@ -33,13 +21,14 @@
 
 ```yaml
 name       : Infant Bosco M
-location   : Salem, India
+location   : Salem, Tamil Nadu, India
 education  : B.Tech CSE @ Karunya Institute of Science & Technology
-year       : First Year (2025 - 2029)
+year       : First Year (2025 → 2029)
 cgpa       : 8.84
 focus      : Full-Stack Web Development · API Design · Scalable Systems
 languages  : English (Professional) · Tamil (Native)
 interests  : Open-Source · Product Design · Campus Software · AI Tools
+philosophy : "Ship early. Iterate always. Learn by doing."
 ```
 
 ---
@@ -50,7 +39,7 @@ interests  : Open-Source · Product Design · Campus Software · AI Tools
 
 | | |
 |:--|:--|
-| **🏫 SPS — School Management Platform** | `React · Flask API · MongoDB · Vercel · Railways` |
+| **🏫 SPS — School Management Platform** | `React · Flask API · MongoDB · Vercel · Railway` |
 | 📌 Status | `🟡 In Progress` |
 | 📄 Scope | 43 web pages with full backend & database integration |
 | ✨ Focus | Premium frontend design + role-based backend systems |
@@ -70,32 +59,32 @@ interests  : Open-Source · Product Design · Campus Software · AI Tools
       <h3 align="center">🩺 MaternCare</h3>
       <div align="center">
         <a href="https://materncare.vercel.app/" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=moter-foetal&theme=default&hide_border=true&title_color=1565C0&icon_color=4F8EF7" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=moter-foetal&theme=tokyonight&hide_border=true" />
         </a>
         <p>Maternal health risk analyzer with interactive real-time dashboard and risk scoring</p>
         <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Recharts-FF6B6B?style=flat"/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Recharts-FF6B6B?style=flat-square"/>
         </p>
-        <a href="https://github.com/InfantBosco/moter-foetal"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github"/></a>&nbsp;
-        <a href="https://materncare.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel"/></a>
+        <a href="https://github.com/InfantBosco/moter-foetal"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+        <a href="https://materncare.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎵 Concert'26</h3>
       <div align="center">
         <a href="https://raja-concert.vercel.app/" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=raja-concert&theme=default&hide_border=true&title_color=1565C0&icon_color=4F8EF7" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=raja-concert&theme=tokyonight&hide_border=true" />
         </a>
         <p>3D animated website for a real-world client with cinematic transitions and interactions</p>
         <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         </p>
-        <a href="https://github.com/InfantBosco/raja-concert"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github"/></a>&nbsp;
-        <a href="https://raja-concert.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel"/></a>
+        <a href="https://github.com/InfantBosco/raja-concert"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+        <a href="https://raja-concert.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
       </div>
     </td>
   </tr>
@@ -104,31 +93,31 @@ interests  : Open-Source · Product Design · Campus Software · AI Tools
       <h3 align="center">🔧 VibeCodePro</h3>
       <div align="center">
         <a href="https://github.com/InfantBosco/extension_code" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=extension_code&theme=default&hide_border=true&title_color=1565C0&icon_color=4F8EF7" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=extension_code&theme=tokyonight&hide_border=true" />
         </a>
         <p>Chrome extension that auto-cleans copied code — fixes syntax, smart quotes & spacing issues</p>
         <p>
-          <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JSON-000000?style=flat"/>
+          <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JSON-000000?style=flat-square"/>
         </p>
-        <a href="https://github.com/InfantBosco/extension_code/tree/main/extension_bt"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github"/></a>
+        <a href="https://github.com/InfantBosco/extension_code/tree/main/extension_bt"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏫 SPS Platform</h3>
       <div align="center">
         <a href="https://github.com/InfantBosco/sps-anti" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=sps-anti&theme=default&hide_border=true&title_color=1565C0&icon_color=4F8EF7" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=sps-anti&theme=tokyonight&hide_border=true" />
         </a>
         <p>Full-stack school management system — 43 pages, premium UI, ongoing active development</p>
         <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
         </p>
-        <a href="https://github.com/InfantBosco/sps-anti"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github"/></a>&nbsp;
-        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat"/>
+        <a href="https://github.com/InfantBosco/sps-anti"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+        <img src="https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square"/>
       </div>
     </td>
   </tr>
@@ -179,13 +168,13 @@ interests  : Open-Source · Product Design · Campus Software · AI Tools
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InfantBosco&show_icons=true&theme=default&hide_border=true&title_color=1565C0&icon_color=4F8EF7&text_color=1a1a2e&bg_color=ffffff&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=InfantBosco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfantBosco&layout=compact&theme=default&hide_border=true&title_color=1565C0&text_color=1a1a2e&bg_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfantBosco&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=InfantBosco&theme=default&hide_border=true&ring=1565C0&fire=4F8EF7&currStreakLabel=1565C0" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=InfantBosco&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 ---
@@ -193,11 +182,19 @@ interests  : Open-Source · Product Design · Campus Software · AI Tools
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfantBosco&theme=minimal&hide_border=true&color=1565C0&line=4F8EF7&point=1565C0&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfantBosco&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,50:1565C0,100:1a1a2e&height=100&section=footer" width="100%"/>
+
+```
+  Build things that work.  ·  Write code that lasts.  ·  First year is just year one.
+```
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,50:1565C0,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
