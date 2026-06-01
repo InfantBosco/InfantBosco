@@ -179,11 +179,21 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfantBosco&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=InfantBosco&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true&custom_title=Infant%20Bosco's%20Contribution%20Graph&radius=8"
+  />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=InfantBosco&bg_color=ffffff&color=1565C0&line=4F8EF7&point=1565C0&area_color=4F8EF7&area=true&hide_border=true&custom_title=Infant%20Bosco's%20Contribution%20Graph&radius=8"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=InfantBosco&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true&custom_title=Infant%20Bosco's%20Contribution%20Graph&radius=8"
+    alt="Infant Bosco's GitHub Activity Graph"
+    width="95%"
+  />
+</picture>
 
 ---
 
