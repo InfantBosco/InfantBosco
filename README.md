@@ -90,7 +90,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔧 VibeCodePro</h3>
+      <h3 align="center">🔧ro</h3>
       <div align="center">
         <a href="https://github.com/InfantBosco/extension_code" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=extension_code&theme=tokyonight&hide_border=true" />
