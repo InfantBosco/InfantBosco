@@ -110,7 +110,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
         <a href="https://github.com/InfantBosco/sps-anti" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=sps-anti&theme=tokyonight&hide_border=true" />
         </a>
-        <p>Full-stack school management system — 43 pages, premium UI, ongoing active development</p>
+        <p>Full-stack school managem — 43 pages, premium UI, ongoing active development</p>
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
