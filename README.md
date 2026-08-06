@@ -105,7 +105,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏫 SPS Platform</h3>
+      <h3 align="center">🏫 Sm</h3>
       <div align="center">
         <a href="https://github.com/InfantBosco/sps-anti" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=sps-anti&theme=tokyonight&hide_border=true" />
