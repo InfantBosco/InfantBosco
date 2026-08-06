@@ -142,7 +142,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge)
 
 **Backend & Databases**
@@ -158,7 +158,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 </div>
@@ -182,7 +182,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 <br/>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/InfantBosco">
     <img src="https://streak-stats.demolab.com?user=InfantBosco&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=DD6387&ring=4F8EF7&currStreakLabel=4F8EF7&sideLabels=70a5fd&dates=bf91f3&stroke=0d1117" width="65%" alt="GitHub Streak"/>
   </a>
 </div>
@@ -191,7 +191,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 
 <div align="center">
 
-  <!-- WakaTime / Trophy row -->
+  <!-- Trophy row -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=InfantBosco&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="95%" alt="GitHub Trophies"/>
   </a>
