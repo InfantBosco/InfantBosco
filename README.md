@@ -95,7 +95,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
         <a href="https://github.com/InfantBosco/extension_code" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=extension_code&theme=tokyonight&hide_border=true" />
         </a>
-        <p>Chrome extension that auto-cleans copied code — fixes syntax, smart quotes & spacing issues</p>
+        <p></p>
         <p>
           <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
           <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
