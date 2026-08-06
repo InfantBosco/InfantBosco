@@ -77,7 +77,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
         <a href="https://raja-concert.vercel.app/" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=raja-concert&theme=tokyonight&hide_border=true" />
         </a>
-        <p>3D animated website for a real-world client with cinematic transitions and interactions</p>
+        <p></p>
         <p>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
