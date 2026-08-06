@@ -56,7 +56,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🩺 e</h3>
+      <h3 align="center">🩺 MaternCare</h3>
       <div align="center">
         <a href="https://materncare.vercel.app/" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=moter-foetal&theme=tokyonight&hide_border=true" />
@@ -72,12 +72,12 @@ philosophy : "Ship early. Iterate always. Learn by doing."
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎵 Co26</h3>
+      <h3 align="center">🎵 Concert'26</h3>
       <div align="center">
         <a href="https://raja-concert.vercel.app/" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=raja-concert&theme=tokyonight&hide_border=true" />
         </a>
-        <p></p>
+        <p>3D animated website for a real-world client with cinematic transitions and interactions</p>
         <p>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -90,12 +90,12 @@ philosophy : "Ship early. Iterate always. Learn by doing."
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔧ro</h3>
+      <h3 align="center">🔧 VibeCodePro</h3>
       <div align="center">
         <a href="https://github.com/InfantBosco/extension_code" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=extension_code&theme=tokyonight&hide_border=true" />
         </a>
-        <p></p>
+        <p>Chrome extension that auto-cleans copied code — fixes syntax, smart quotes & spacing issues</p>
         <p>
           <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
           <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -105,12 +105,12 @@ philosophy : "Ship early. Iterate always. Learn by doing."
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏫 Sm</h3>
+      <h3 align="center">🏫 SPS Platform</h3>
       <div align="center">
         <a href="https://github.com/InfantBosco/sps-anti" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=sps-anti&theme=tokyonight&hide_border=true" />
         </a>
-        <p>Full-stack school managem — 43 pages, premium UI, ongoing active development</p>
+        <p>Full-stack school management system — 43 pages, premium UI, ongoing active development</p>
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -142,7 +142,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge)
 
 **Backend & Databases**
@@ -158,7 +158,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 </div>
@@ -182,7 +182,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 <br/>
 
 <div align="center">
-  <a href="https://github.com/InfantBosco">
+  <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=InfantBosco&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=DD6387&ring=4F8EF7&currStreakLabel=4F8EF7&sideLabels=70a5fd&dates=bf91f3&stroke=0d1117" width="65%" alt="GitHub Streak"/>
   </a>
 </div>
@@ -191,7 +191,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 
 <div align="center">
 
-  <!-- Trophy row -->
+  <!-- WakaTime / Trophy row -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=InfantBosco&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="95%" alt="GitHub Trophies"/>
   </a>
