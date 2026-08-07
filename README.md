@@ -68,7 +68,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
           <img src="https://img.shields.io/badge/Recharts-FF6B6B?style=flat-square"/>
         </p>
         <a href="https://github.com/InfantBosco/moter-foetal"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
-        <a href="https://materncare.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+        <a href="https://github.com/InfantBosco"><a href="https://materncare.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
