@@ -56,7 +56,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🩺  </h3>
+      <h3 align="center">🩺 MaternCare </h3>
       <div align="center">
         <a href="https://materncare.vercel.app/" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=moter-foetal&theme=tokyonight&hide_border=true" alt="MaternCare Pin"/>
