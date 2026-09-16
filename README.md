@@ -30,6 +30,12 @@
 
 ## 🧭 About Me
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively_Building-brightgreen?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Open_To-Collaborations_%26_Open_Source-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Open To"/>
+  <img src="https://img.shields.io/badge/Goal-Mastering_Full_Stack_%26_DevOps-00b4d8?style=for-the-badge&logo=rocket&logoColor=white" alt="Goal"/>
+</p>
+
 ```yaml
 name       : Infant Bosco M
 location   : Salem, Tamil Nadu, India 🇮🇳
