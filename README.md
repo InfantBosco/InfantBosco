@@ -73,7 +73,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🩺 Matern Care </h3>
+      <h3 align="center">🩺 MaternCare</h3>
       <div align="center">
         <a href="https://materncare.vercel.app/" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=moter-foetal&theme=tokyonight&hide_border=true" alt="MaternCare Pin"/>
@@ -90,7 +90,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎵 Concert 26</h3>
+      <h3 align="center">🎵 Concert'26</h3>
       <div align="center">
         <a href="https://raja-concert.vercel.app/" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfantBosco&repo=raja-concert&theme=tokyonight&hide_border=true" alt="Concert'26 Pin"/>
