@@ -195,11 +195,11 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 <div align="center">
 
   <a href="https://github.com/InfantBosco">
-    <img src="https://github-readme-stats.vercel.app/api?username=InfantBosco&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=InfantBosco&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="185" alt="GitHub Stats"/>
   </a>
   &nbsp;
   <a href="https://github.com/InfantBosco">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfantBosco&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="180" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfantBosco&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="185" alt="Top Languages"/>
   </a>
 
 </div>
@@ -208,7 +208,7 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=InfantBosco&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=7aa2f7&ring=7aa2f7&currStreakLabel=7aa2f7&sideLabels=70a5fd&dates=bf91f3&stroke=0d1117" width="70%" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=InfantBosco&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=7aa2f7&ring=7aa2f7&currStreakLabel=7aa2f7&sideLabels=70a5fd&dates=bf91f3&stroke=0d1117" width="80%" alt="GitHub Streak"/>
   </a>
 </div>
 
