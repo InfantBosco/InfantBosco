@@ -15,6 +15,17 @@
   <img src="https://komarev.com/ghpvc/?username=InfantBosco&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
+<br/>
+
+<p align="center">
+  <a href="#-about-me"><b>About Me</b></a> •
+  <a href="#-currently-building"><b>Currently Building</b></a> •
+  <a href="#-featured-projects"><b>Projects</b></a> •
+  <a href="#%EF%B8%8F-tech-stack--skills"><b>Tech Stack</b></a> •
+  <a href="#-github-analytics"><b>Analytics</b></a> •
+  <a href="#-lets-connect"><b>Connect</b></a>
+</p>
+
 ---
 
 ## 🧭 About Me
