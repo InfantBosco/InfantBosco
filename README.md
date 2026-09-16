@@ -270,8 +270,8 @@ philosophy : "Ship early. Iterate always. Learn by doing."
 
 <div align="center">
 
-```
-  Build things that work.  ·  Write code that lasts.  ·  First year is just year one.
+```text
+  🚀 Build things that work.  ·  ⚡ Write code that lasts.  ·  🌱 First year is just year one.
 ```
 
 </div>
